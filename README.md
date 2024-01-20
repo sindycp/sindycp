@@ -9,6 +9,7 @@ Thanks for stopping by my GitHub! This repository highlights my cybersecurity jo
 My drive to leverage technology for problem-solving and improving user experiences has been a constant motivation. Whether troubleshooting development projects or implementing software solutions, these experiences have equipped me with a robust set of IT skills, shaping my outlook on the digital landscape. Yet, my genuine enthusiasm for cybersecurity blossomed, fueled by my perpetual desire to learn, adapt to new challenges, and engage in safeguarding against evolving threats and vulnerabilities.
 
 Feel free to explore my GitHub portfolio for a firsthand look at my technical skills. These projects reflect my problem-solving, attention to detail, and proficiency in analyzing risks with effective mitigation strategies.
+<br />
 
 <h1 align="center">Projects</h1>
 
