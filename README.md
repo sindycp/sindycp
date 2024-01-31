@@ -15,7 +15,8 @@ Feel free to explore my GitHub portfolio for a firsthand look at my technical sk
 
 <h2>👩‍💻 Cyber Security / IT Projects</h2>
   
-  - [Creating a Honeypot in Azure](https://github.com/sindycp/Azure-Honeypot)
+  -  [Performing Search Queries in Splunk](https://github.com/sindycp/Searching-in-Splunk)
+  -  [Creating a Honeypot in Azure](https://github.com/sindycp/Azure-Honeypot)
   - [Active Directory VM Lab](https://github.com/sindycp/Active-Directory-Lab)
 <br />
 
