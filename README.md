@@ -14,10 +14,11 @@ Feel free to explore my GitHub portfolio for a firsthand look at my technical sk
 <h1 align="center">Projects</h1>
 
 <h2>👩‍💻 Cyber Security / IT Projects</h2>
-  
+
+  -  [Azure Honeynet and SOC with Real-World Cyber Attacks](https://github.com/sindycp/Azure-Honeynet-SOC)
   -  [Performing Search Queries in Splunk](https://github.com/sindycp/Searching-in-Splunk)
   -  [Creating a Honeypot in Azure](https://github.com/sindycp/Azure-Honeypot)
-  - [Active Directory VM Lab](https://github.com/sindycp/Active-Directory-Lab)
+  -  [Active Directory VM Lab](https://github.com/sindycp/Active-Directory-Lab)
 <br />
 
 <h2>📱 Let’s Connect</h2>
