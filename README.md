@@ -19,6 +19,7 @@ Feel free to explore my GitHub portfolio for a firsthand look at my technical sk
   -  [Performing Search Queries in Splunk](https://github.com/sindycp/Searching-in-Splunk)
   -  [Creating a Honeypot in Azure](https://github.com/sindycp/Azure-Honeypot)
   -  [Active Directory VM Lab](https://github.com/sindycp/Active-Directory-Lab)
+  -  [PowerShell File Integrity Monitor](https://github.com/sindycp/Powershell-File-Integrity-Monitor)
 <br />
 
 <h2>📱 Let’s Connect</h2>
